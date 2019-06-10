@@ -1,0 +1,2 @@
+# wadcoin
+wad coin development
